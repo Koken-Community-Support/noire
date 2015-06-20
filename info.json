@@ -1,0 +1,25 @@
+{
+	"name": "Noire",
+	"version": "0.1",
+	"description": "A dark Koken theme geared towards portrait, model, fashion and budoir photographers."
+	"demo": "http://kokensupport.varoystrand.se/",
+	"terms": "Released under MIT & GPL3 license",
+	"documentation": "http://varoystrand.se/sidor/noire/",
+	"author": {
+		"name": "Bjarne Varoystrand",
+		"mail": "baldursphotography@gmail.com"
+		"link": "http://varoystrand.se/"
+	},
+	
+	"koken_version_required": "0.20.0",
+	
+	"default_front_page": "home",
+	
+	"navigation_groups": {
+		"footer": {
+			"label": "Footer",
+			"description": "Links in the footer",
+			"defaults": [ "front", "albums", "contents", "favorites", "essays" ]
+		}
+	}
+}
