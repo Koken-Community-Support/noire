@@ -6,5 +6,6 @@ Noire is a dark Koken theme geared towards portrait, model, fashion and budoir p
 #### Documentation
 
 #### Support & Downloads
+Support is as always handled through the [Koken Community Support forum] (http://kokensupport.varoystrand.se/viewtopic.php?f=16&p=221#p221)
 
 #### Credits
